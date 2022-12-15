@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://api.zeeoneofc.xyz': 'EuHtralu',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -35,7 +35,7 @@ global.email = "alwbabu@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6283819471062'] //premium user
-global.owner = ["6283819471062","6283819471062"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6283819471062'] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6283819471062" // nomor wa kalian
 global.ownernomerr = "+6283819471062" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
